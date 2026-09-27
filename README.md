@@ -7,7 +7,7 @@
 
 - *Juan Andrés Barón Vásquez.*
 
-Equipo de trabajo del Proyecto Integrador de Algoritmia y Programación 2026-2
+Equipo de trabajo del Proyecto Integrador de Algoritmia y Programación 2026-2.
 
 ## Vínculos académicos y descripción
 
