@@ -54,24 +54,23 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 
 ## Especificación de requisitos
 
-## Requisitos funcionales
+### Requisitos funcionales
 - El sistema debe permitir registrar una nueva PQRS, solicitando todos los datos necesarios para su radicación.
 - El sistema debe validar los datos ingresados por el usuario, incluyendo nombres, números telefónicos, direcciones de correo electrónico y fechas.
 - El sistema debe asignar a cada PQRS un número de radicado consecutivo y almacenar la información en cuatro archivos planos independientes, según el tipo de solicitud.
 - El sistema debe permitir consultar las PQRS registradas y su estado actual.
 - El sistema debe permitir gestionar y actualizar la información almacenada.
-- El sistema debe calcular el promedio de días de respuesta de las solicitudes.
-- El sistema debe generar informes a partir de la información registrada, incluyendo cinco estadísticas adicionales.
+- El sistema debe generar reportes estadísticos a partir de la información registrada, incluyendo obligatoriamente el promedio de días de respuesta de las solicitudes, además de cinco estadísticas adicionales definidas por el equipo.
 - El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
 
- ## Requisitos no funcionales
-- **Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
-- **Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
-- **Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
-- **Rendimiento:** el sistema debe procesar las consultas y registros en un tiempo razonable.
-- **Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py` para facilitar su modificación y mantenimiento.
-- **Compatibilidad:** el software debe poder ejecutarse en un entorno que cuente con Python 3.
-– **Integridad:** el sistema debe validar los datos antes de almacenarlos para reducir errores en la información.
+### Requisitos no funcionales
+- **Usabilidad:** el sistema debe contar con un menú de consola claro y comprensible, que permita a un administrador sin conocimientos técnicos utilizarlo sin dificultad.
+- **Confiabilidad:** el sistema debe almacenar correctamente la información registrada, sin pérdida ni alteración de los datos entre operaciones.
+- **Seguridad:** la información registrada debe manejarse de forma adecuada, evitando modificaciones no autorizadas sobre los archivos planos.
+- **Rendimiento:** el sistema debe procesar las consultas y los registros en un tiempo razonable, dado el volumen de datos esperado para un proyecto académico.
+- **Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py`, cada uno con una responsabilidad clara, para facilitar su modificación y mantenimiento.
+- **Compatibilidad:** el software debe poder ejecutarse en cualquier entorno que cuente con Python 3, sin depender de librerías externas adicionales.
+- **Integridad:** el sistema debe validar los datos antes de almacenarlos, evitando que se guarde información incompleta, mal formateada o inconsistente.
 
 ## Plan de proyecto
 
