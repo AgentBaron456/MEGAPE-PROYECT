@@ -1,5 +1,5 @@
 # Integrantes
-- *Vanessa*
+- *Vanessa Lucía Bernal Ruiz*
 
 - *Kevin Andrés Bedoya David.*
 
