@@ -12,14 +12,17 @@ Equipo de trabajo del Proyecto Integrador de Algoritmia y Programación 2026-2, 
 
 ### Vanessa Lucía Bernal Ruiz
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+
 **Habilidades y fortalezas:** organización, responsabilidad, trabajo en equipo y capacidad para analizar y solucionar problemas.
 
 ### Kevin Andrés Bedoya David
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+
 **Habilidades y fortalezas:**
 
 ### Iván Edwin Cando
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+
 **Habilidades y fortalezas:**
 
 ### Juan Andrés Barón Vásquez
@@ -39,9 +42,7 @@ El proyecto consiste en el desarrollo de un software para la gestión de Peticio
 
 Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`](LICENSE) para el texto completo.
 
-Esta licencia permite usar, copiar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright original.
-
-# Descripción general del software
+## Reporte de visión
  - ### Descripción del software: 
  El software es una aplicación desarrollada en Python que permite registrar, almacenar, consultar y gestionar las peticiones, quejas, reclamos y sugerencias (PQRS) recibidas por MEGAPE. El sistema busca organizar la información de manera estructurada, facilitar el seguimiento de cada solicitud y generar reportes que permitan analizar la atención de los casos.
  
@@ -51,8 +52,16 @@ Esta licencia permite usar, copiar, modificar y distribuir el software librement
 - ### Beneficios al utilizar Python:
  Unos de los beneficios al usar Python para la creación del programa es su accesibilidad y multiplataformidad, al igual que tanto su facilidad de uso y aprendizaje como su facilidad a la hora de darse a explicar y atender.
 
-# Requisitos funcionales y no funcionales del software
+# Especificación de requisitos
 ### Requisitos funcionales:
 
 ### Requisitos no funcionales:
+
+## Plan de proyecto
+
+### Actividades
+
+### Cronograma
+
+### Presupuesto
  
