@@ -12,7 +12,7 @@ Como estudiantes de la universidad de Antioquia se nos fue encargado un trabajo 
 
 # Descripción general del software
  - ### Descripción del software: 
- Python es un lenguaje de programación de alto nivel, interpretado y de propósito general.
+ El software es una aplicación desarrollada en Python que permite registrar, almacenar, consultar y gestionar las peticiones, quejas, reclamos y sugerencias (PQRS) recibidas por MEGAPE. El sistema busca organizar la información de manera estructurada, facilitar el seguimiento de cada solicitud y generar reportes que permitan analizar la atención de los casos.
  
  - ### Objetivos del software: 
  El objetivo al usar Python es poder optimizar todos los procesos dentro de las actividades del Movimiento Estudiantil para Gatitos y Perritos (MEGAPE), especialmente para mejorar sustancialmente su gestión de las peticiones, quejas, reclamos y sugerencias que le llegan día a día desde distintas fuentes, haciéndolo mucho más eficiente y organizado.
