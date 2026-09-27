@@ -91,4 +91,11 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 ### Cronograma
 
 ### Presupuesto
+Para 2026, el SMLMV establecido es de $1.750.905.
+Para estimar el valor de cada hora de trabajo académico usamos la equivalencia de 240 horas mensuales:
+
+**Valor hora:** $1.750.905 / 240 = $7.295,44
+
+**Valor total del proyecto:** 50 horas x $7.295,44 = $364.772 aproximadamente 
+
  
