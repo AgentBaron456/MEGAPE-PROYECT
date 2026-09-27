@@ -19,7 +19,7 @@ Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
 ### Kevin Andrés Bedoya David
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
 
-**Habilidades y fortalezas:**
+**Habilidades y fortalezas:** Adaptabilidad, proactivo, comunicación asertiva e interpretación de informacion para la toma de decisiones.
 
 ### Iván Edwin Cando
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
