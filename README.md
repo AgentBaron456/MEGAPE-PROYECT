@@ -6,9 +6,7 @@
 - *Ivan Edwin Cando*
 
 - *Juan Andrés Barón Vásquez.*
-  
- ### Descripción del Proyecto
-Como estudiantes de la universidad de Antioquia se nos fue encargado un trabajo de parte del Movimiento Estudiantil para Gatitos y Perritos (MEGAPE) de la misma universidad, donde se nos buscó abordar en la creación de un programa (a partir del lenguaje de programación de alto nivel Python) que permita registrar y gestionar las peticiones, quejas, reclamos y sugerencias (PQRS) de las personas que soliciten sus servicios mediante redes sociales, correo electrónico, papel, voz a voz y otros medios. Todo esto en búsqueda de atender cualquier asunto relacionado con perros y gatos de manera responsable y cuidadosa, reemplazando su viejo método ineficiente en base de papel y lápiz.
+Equipo de trabajo del Proyecto Integrador de Algoritmia y Programación 2026-2, encargado del desarrollo de MEGAPE, un sistema para la gestión de PQRS.
 
 ## 2. Vínculos académicos y descripción
 
@@ -28,6 +26,20 @@ Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
 
 **Habilidades y fortalezas:**
+
+## Nombre del proyecto y detalles
+
+### MEGAPE – Sistema de Gestión de PQRS
+
+(imagen)
+
+El proyecto consiste en el desarrollo de un software para la gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS). El sistema permitirá registrar las solicitudes recibidas por distintos canales, asignarles un número de radicado, hacer seguimiento a su estado y calcular los tiempos de respuesta, facilitando así el control de cada caso. Con esto se busca reemplazar el manejo tradicional de la información mediante papel y lápiz por un sistema organizado que centralice el registro, almacenamiento, consulta y seguimiento de las solicitudes recibidas.
+
+## Licencia del software
+
+Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`](LICENSE) para el texto completo.
+
+Esta licencia permite usar, copiar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright original.
 
 # Descripción general del software
  - ### Descripción del software: 
