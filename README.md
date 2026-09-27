@@ -54,25 +54,17 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 
 ## Especificación de requisitos
 
-### Requisitos funcionales
+## Requisitos funcionales
+- El sistema debe permitir registrar una nueva PQRS, solicitando todos los datos necesarios para su radicación.
+- El sistema debe validar los datos ingresados por el usuario, incluyendo nombres, números telefónicos, direcciones de correo electrónico y fechas.
+- El sistema debe asignar a cada PQRS un número de radicado consecutivo y almacenar la información en cuatro archivos planos independientes, según el tipo de solicitud.
+- El sistema debe permitir consultar las PQRS registradas y su estado actual.
+- El sistema debe permitir gestionar y actualizar la información almacenada.
+- El sistema debe calcular el promedio de días de respuesta de las solicitudes.
+- El sistema debe generar informes a partir de la información registrada, incluyendo cinco estadísticas adicionales.
+- El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
 
--  El sistema debe permitir registrar una nueva PQRS.
--  El sistema debe solicitar los datos necesarios para registrar una PQRS.
--  El sistema debe validar los datos ingresados por el usuario.
--  El sistema debe validar nombres.
--  El sistema debe validar números telefónicos.
--  El sistema debe validar direcciones de correo electrónico.
--  El sistema debe validar fechas.
--  El sistema debe almacenar la información de las PQRS en cuatro archivos planos independientes.
--  El sistema debe permitir consultar las PQRS registradas.
--  El sistema debe permitir gestionar la información almacenada.
--  El sistema debe permitir consultar el estado de las solicitudes.
--  El sistema debe calcular el promedio de días de respuesta.
--  El sistema debe generar reportes a partir de la información registrada (cinco estadísticas adicionales).
--  El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
-
-### Requisitos no funcionales
-
+ ## Requisitos no funcionales
 - **Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
 - **Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
 - **Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
