@@ -60,7 +60,7 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 - El sistema debe asignar a cada PQRS un número de radicado consecutivo y almacenar la información en cuatro archivos planos independientes, según el tipo de solicitud.
 - El sistema debe permitir consultar las PQRS registradas y su estado actual.
 - El sistema debe permitir gestionar y actualizar la información almacenada.
-- El sistema debe generar reportes estadísticos a partir de la información registrada, incluyendo obligatoriamente el promedio de días de respuesta de las solicitudes, además de cinco estadísticas adicionales definidas por el equipo.
+- El sistema debe generar reportes estadísticos a partir de la información registrada, incluyendo el promedio de días de respuesta de las solicitudes y cinco estadísticas adicionales, aún por definir según las necesidades de gestión del proyecto.
 - El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
 
 ### Requisitos no funcionales
