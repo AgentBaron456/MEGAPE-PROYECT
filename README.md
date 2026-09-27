@@ -73,13 +73,13 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 
 ### Requisitos no funcionales
 
-- **1 – Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
-- **2 – Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
-- **3 – Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
-- **4 – Rendimiento:** el sistema debe procesar las consultas y registros en un tiempo razonable.
-- **5 – Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py` para facilitar su modificación y mantenimiento.
-- **6 – Compatibilidad:** el software debe poder ejecutarse en un entorno que cuente con Python 3.
-- **7 – Integridad:** el sistema debe validar los datos antes de almacenarlos para reducir errores en la información.
+- **Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
+- **Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
+- **Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
+- **Rendimiento:** el sistema debe procesar las consultas y registros en un tiempo razonable.
+- **Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py` para facilitar su modificación y mantenimiento.
+- **Compatibilidad:** el software debe poder ejecutarse en un entorno que cuente con Python 3.
+– **Integridad:** el sistema debe validar los datos antes de almacenarlos para reducir errores en la información.
 
 ## Plan de proyecto
 
