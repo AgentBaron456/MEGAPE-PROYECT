@@ -77,6 +77,16 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 ## Plan de proyecto
 
 ### Actividades
+- 1 **Análisis y planificación:** Revisar los requisitos del sistema, definir el alcance y organizar las tareas del equipo.
+- 2 **Diseño de la estructura del programa:** Definir las clases, objetos, archivos y módulos que tendrá el proyecto.
+- 3 **Creación de archivos y manejo de datos:** Preparar los cuatro archivos planos independientes para peticiones, quejas, reclamos y sugerencias.
+- 4 **Desarrollo de validaciones:** Implementar las validaciones para nombres, documentos, teléfonos, correos, fechas, direcciones y demás datos solicitados.
+- 5 **Desarrollo del registro PQRS:** Crear el proceso para registrar una nueva PQRS, asignar el id consecutivo y almacenar la información correspondiente.
+- 6 **Consulta y actualización:** Desarrollar las funciones para consultar las PQRS registradas, visualizar su estado y actualizar la informacion permitida.
+- 7 **Generación del radicado:** Crear el comprobante en formato TXT con el formato ASCII de 120 caracteres y la informacion requerida.
+- 8 **Desarrollo de estadísticas:** Implementar el promedio de días de respuesta y las cinco estadísticas adicionales selecionadas por el equipo.
+- 9 **Pruebas e integración:** Realizar pruebas de funcionamiento, detectar errores, verificar las validaciones e integrar todos los modulos.
+- 10 **Documentación y organización final:** Elaborar la documentación, organizar las carpetas del proyecto t preparar el repositorio de GitHub.  
 
 ### Cronograma
 
