@@ -56,30 +56,30 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 
 ### Requisitos funcionales
 
-- **RF01:** El sistema debe permitir registrar una nueva PQRS.
-- **RF02:** El sistema debe solicitar los datos necesarios para registrar una PQRS.
-- **RF03:** El sistema debe validar los datos ingresados por el usuario.
-- **RF04:** El sistema debe validar nombres.
-- **RF05:** El sistema debe validar números telefónicos.
-- **RF06:** El sistema debe validar direcciones de correo electrónico.
-- **RF07:** El sistema debe validar fechas.
-- **RF08:** El sistema debe almacenar la información de las PQRS en cuatro archivos planos independientes.
-- **RF09:** El sistema debe permitir consultar las PQRS registradas.
-- **RF10:** El sistema debe permitir gestionar la información almacenada.
-- **RF11:** El sistema debe permitir consultar el estado de las solicitudes.
-- **RF12:** El sistema debe calcular el promedio de días de respuesta.
-- **RF13:** El sistema debe generar reportes a partir de la información registrada (cinco estadísticas adicionales).
-- **RF14:** El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
+- **1:** El sistema debe permitir registrar una nueva PQRS.
+- **2:** El sistema debe solicitar los datos necesarios para registrar una PQRS.
+- **3:** El sistema debe validar los datos ingresados por el usuario.
+- **4:** El sistema debe validar nombres.
+- **5:** El sistema debe validar números telefónicos.
+- **6:** El sistema debe validar direcciones de correo electrónico.
+- **7:** El sistema debe validar fechas.
+- **8:** El sistema debe almacenar la información de las PQRS en cuatro archivos planos independientes.
+- **9:** El sistema debe permitir consultar las PQRS registradas.
+- **10:** El sistema debe permitir gestionar la información almacenada.
+- **11:** El sistema debe permitir consultar el estado de las solicitudes.
+- **12:** El sistema debe calcular el promedio de días de respuesta.
+- **13:** El sistema debe generar reportes a partir de la información registrada (cinco estadísticas adicionales).
+- **14:** El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
 
 ### Requisitos no funcionales
 
-- **RNF01 – Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
-- **RNF02 – Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
-- **RNF03 – Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
-- **RNF04 – Rendimiento:** el sistema debe procesar las consultas y registros en un tiempo razonable.
-- **RNF05 – Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py` para facilitar su modificación y mantenimiento.
-- **RNF06 – Compatibilidad:** el software debe poder ejecutarse en un entorno que cuente con Python 3.
-- **RNF07 – Integridad:** el sistema debe validar los datos antes de almacenarlos para reducir errores en la información.
+- **1 – Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
+- **2 – Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
+- **3 – Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
+- **4 – Rendimiento:** el sistema debe procesar las consultas y registros en un tiempo razonable.
+- **5 – Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py` para facilitar su modificación y mantenimiento.
+- **6 – Compatibilidad:** el software debe poder ejecutarse en un entorno que cuente con Python 3.
+- **7 – Integridad:** el sistema debe validar los datos antes de almacenarlos para reducir errores en la información.
 
 ## Plan de proyecto
 
