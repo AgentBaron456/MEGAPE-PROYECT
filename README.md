@@ -10,15 +10,24 @@
  ### Descripción del Proyecto
 Como estudiantes de la universidad de Antioquia se nos fue encargado un trabajo de parte del Movimiento Estudiantil para Gatitos y Perritos (MEGAPE) de la misma universidad, donde se nos buscó abordar en la creación de un programa (a partir del lenguaje de programación de alto nivel Python) que permita registrar y gestionar las peticiones, quejas, reclamos y sugerencias (PQRS) de las personas que soliciten sus servicios mediante redes sociales, correo electrónico, papel, voz a voz y otros medios. Todo esto en búsqueda de atender cualquier asunto relacionado con perros y gatos de manera responsable y cuidadosa, reemplazando su viejo método ineficiente en base de papel y lápiz.
 
-# Vínculos académicos y descripción
+## 2. Vínculos académicos y descripción
 
-- Vanessa Lucía Bernal Ruiz: Ingeniería Industrial. Enfoque en la gestión de procesos y documentación de proyectos. Se destaca por su capacidad de organización, atención al detalle y facilidad para el trabajo en equipo.
+### Vanessa Lucía Bernal Ruiz
+Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+**Habilidades y fortalezas:** organización, responsabilidad, trabajo en equipo y capacidad para analizar y solucionar problemas.
 
-- Kevin Andrés Bedoya David: Ingeniería Industrial. 
+### Kevin Andrés Bedoya David
+Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+**Habilidades y fortalezas:**
 
-- Ivan Edwin Cando: Ingeniería Industrial. 
+### Iván Edwin Cando
+Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+**Habilidades y fortalezas:**
 
-- Juan Andrés Barón Vásquez: Ingeniería Industrial.
+### Juan Andrés Barón Vásquez
+Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
+
+**Habilidades y fortalezas:**
 
 # Descripción general del software
  - ### Descripción del software: 
