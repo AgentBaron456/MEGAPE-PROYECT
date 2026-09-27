@@ -56,20 +56,20 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 
 ### Requisitos funcionales
 
-- **1:** El sistema debe permitir registrar una nueva PQRS.
-- **2:** El sistema debe solicitar los datos necesarios para registrar una PQRS.
-- **3:** El sistema debe validar los datos ingresados por el usuario.
-- **4:** El sistema debe validar nombres.
-- **5:** El sistema debe validar números telefónicos.
-- **6:** El sistema debe validar direcciones de correo electrónico.
-- **7:** El sistema debe validar fechas.
-- **8:** El sistema debe almacenar la información de las PQRS en cuatro archivos planos independientes.
-- **9:** El sistema debe permitir consultar las PQRS registradas.
-- **10:** El sistema debe permitir gestionar la información almacenada.
-- **11:** El sistema debe permitir consultar el estado de las solicitudes.
-- **12:** El sistema debe calcular el promedio de días de respuesta.
-- **13:** El sistema debe generar reportes a partir de la información registrada (cinco estadísticas adicionales).
-- **14:** El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
+-  El sistema debe permitir registrar una nueva PQRS.
+-  El sistema debe solicitar los datos necesarios para registrar una PQRS.
+-  El sistema debe validar los datos ingresados por el usuario.
+-  El sistema debe validar nombres.
+-  El sistema debe validar números telefónicos.
+-  El sistema debe validar direcciones de correo electrónico.
+-  El sistema debe validar fechas.
+-  El sistema debe almacenar la información de las PQRS en cuatro archivos planos independientes.
+-  El sistema debe permitir consultar las PQRS registradas.
+-  El sistema debe permitir gestionar la información almacenada.
+-  El sistema debe permitir consultar el estado de las solicitudes.
+-  El sistema debe calcular el promedio de días de respuesta.
+-  El sistema debe generar reportes a partir de la información registrada (cinco estadísticas adicionales).
+-  El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
 
 ### Requisitos no funcionales
 
