@@ -8,7 +8,7 @@
 - *Juan Andrés Barón Vásquez.*
 Equipo de trabajo del Proyecto Integrador de Algoritmia y Programación 2026-2, encargado del desarrollo de MEGAPE, un sistema para la gestión de PQRS.
 
-## 2. Vínculos académicos y descripción
+## Vínculos académicos y descripción
 
 ### Vanessa Lucía Bernal Ruiz
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
@@ -52,10 +52,34 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Ver el archivo [`LICENSE`]
 - ### Beneficios al utilizar Python:
  Unos de los beneficios al usar Python para la creación del programa es su accesibilidad y multiplataformidad, al igual que tanto su facilidad de uso y aprendizaje como su facilidad a la hora de darse a explicar y atender.
 
-# Especificación de requisitos
-### Requisitos funcionales:
+## Especificación de requisitos
 
-### Requisitos no funcionales:
+### Requisitos funcionales
+
+- **RF01:** El sistema debe permitir registrar una nueva PQRS.
+- **RF02:** El sistema debe solicitar los datos necesarios para registrar una PQRS.
+- **RF03:** El sistema debe validar los datos ingresados por el usuario.
+- **RF04:** El sistema debe validar nombres.
+- **RF05:** El sistema debe validar números telefónicos.
+- **RF06:** El sistema debe validar direcciones de correo electrónico.
+- **RF07:** El sistema debe validar fechas.
+- **RF08:** El sistema debe almacenar la información de las PQRS en cuatro archivos planos independientes.
+- **RF09:** El sistema debe permitir consultar las PQRS registradas.
+- **RF10:** El sistema debe permitir gestionar la información almacenada.
+- **RF11:** El sistema debe permitir consultar el estado de las solicitudes.
+- **RF12:** El sistema debe calcular el promedio de días de respuesta.
+- **RF13:** El sistema debe generar reportes a partir de la información registrada (cinco estadísticas adicionales).
+- **RF14:** El sistema debe permitir la lectura y escritura de los archivos utilizados para almacenar la información.
+
+### Requisitos no funcionales
+
+- **RNF01 – Usabilidad:** el sistema debe contar con una interfaz y opciones comprensibles para facilitar su utilización.
+- **RNF02 – Confiabilidad:** el sistema debe almacenar correctamente la información registrada.
+- **RNF03 – Seguridad:** la información registrada debe ser manejada de manera adecuada y evitar modificaciones no autorizadas.
+- **RNF04 – Rendimiento:** el sistema debe procesar las consultas y registros en un tiempo razonable.
+- **RNF05 – Mantenibilidad:** el código debe estar organizado en los módulos `validaciones.py`, `archivos.py` y `reportes.py` para facilitar su modificación y mantenimiento.
+- **RNF06 – Compatibilidad:** el software debe poder ejecutarse en un entorno que cuente con Python 3.
+- **RNF07 – Integridad:** el sistema debe validar los datos antes de almacenarlos para reducir errores en la información.
 
 ## Plan de proyecto
 
