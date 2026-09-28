@@ -24,7 +24,7 @@ Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
 * #### Iván Edwin Cando
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
 
-**Habilidades y fortalezas:**Adaptabilidad, responsabilidad, trabajo en equipo, capacidad de aprendizaje y pensamiento analítico.
+**Habilidades y fortalezas:** Adaptabilidad, responsabilidad, trabajo en equipo, capacidad de aprendizaje y pensamiento analítico.
 
 * #### Juan Andrés Barón Vásquez
 Estudiante de Ingeniería Industrial de la Universidad de Antioquia.
